@@ -15,7 +15,6 @@ def dice_rolling():
 
 
 
-
 goal = dice_rolling()
 
 
