@@ -1,7 +1,5 @@
 import random
 
-
-
 def dice_rolling():
 
     dicethrow_1 = random.randrange(1,7)
